@@ -7,3 +7,7 @@ It uses python virtual environments. To set one up
 To activate
 
 `source .venv/bin/activate`
+
+This project uses jupyter notebook extensions. Installation instructions can be found [here](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html).
+
+To use your virtual environment with a jupyter notebook follow the instructions [here](https://janakiev.com/blog/jupyter-virtual-envs/).
